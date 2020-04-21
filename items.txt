@@ -4,4 +4,3 @@
 
 - Primo commit master 2
 
-- Terzo commit master 1
